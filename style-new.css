@@ -233,6 +233,7 @@ body a:hover {
   margin-bottom: 40px;
   font-size: 25px;
   line-height: 2.1rem;
+  text-align: justify;
 }
 
 .request-tech {
