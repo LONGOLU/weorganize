@@ -47,6 +47,14 @@ body {
   margin-bottom: 140px;
 }
 
+.margin-l27 {
+  margin-left: 27px;
+}
+
+.margin-l47 {
+  margin-left: 47px;
+}
+
 .margin-t30 {
   margin-top:30px;
 }
@@ -160,16 +168,17 @@ body a:hover {
 
 .about_us h2 {
   text-align: center;
-   font-family: 'Dancing Script', cursive;
-    color: black;
+  font-family: 'Dancing Script', cursive;
+  color: black;
 }
 
 
-.content {
+.content  p{
   width: 1400px;
   margin-left: 600px;
   min-height: 1000px ;
-  text-align: center; 
+  text-align: center;
+  font-size: 28px; 
 }
 
  .about_us
@@ -423,6 +432,7 @@ color:rgb(3, 3, 3);
 .covid-19{
   font-size: 24px;
   font-weight: lighter;
+  ;
   
 }
 
