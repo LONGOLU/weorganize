@@ -396,6 +396,16 @@ color:rgb(3, 3, 3);
   font-family: 'Cormorant Garamond', serif;
 }
 
+.privacy-policy h5 {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.privacy-policy h5 a {
+  font-weight: bold;
+  font-size: 20px;
+}
+
 .contact-container .col.margin-top {
     padding-top: 10px;
     font-family: 'Cormorant Garamond', serif;
@@ -404,9 +414,9 @@ color:rgb(3, 3, 3);
 .map h3{
   font-size:25px;
   font-family: 'Cormorant Garamond', serif;
-  
-  
 }
+
+
 .container contact-container , .row , 
 .col tr th{
   color:rgb(3, 3, 3);
