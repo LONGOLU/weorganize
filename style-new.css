@@ -39,6 +39,11 @@ body {
   padding-bottom: 20px;
 }
 
+.margin-bt20 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
 .margin-b70 {
   margin-bottom: 70px;
 }
@@ -213,24 +218,18 @@ body a:hover {
 
   
 /*===== Serives page===== */
+
 .btn_click {
   border: none;
   padding: 19px 36px;
   font-size: 35px;
   display: inline-block;
   border-radius: 12px;
-
-
 }
+
  .btn_click  a{
   color: rgb(205, 173, 74);
-
  }
-
-.btn_click a:hover {
-
-}
-
 
 
 .content p {
@@ -239,8 +238,6 @@ body a:hover {
   min-height: 1600px;
   font-family: 'Cormorant Garamond', serif;
   letter-spacing: .8em;
-
-
 } 
 
 .content_services h1  {
@@ -359,6 +356,14 @@ color:rgb(3, 3, 3);
   font-size: 18px;
   color:rgb(3, 3, 3);
   font-family: 'Cormorant Garamond', serif;
+}
+
+.contact-page .hours h4 {
+  margin-top: 20px;
+}
+
+.contact-form {
+  margin: 60px 0;
 }
 
 .address, .hours {
