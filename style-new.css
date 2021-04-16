@@ -151,6 +151,10 @@ body a:hover {
   padding: 45px 0 90px;
 }
 
+.testimonial-holder p {
+  font-size: 25px;
+}
+
 .testimonial-holder .author {
   font-weight: bold;
   font-style: italic;
@@ -164,6 +168,10 @@ body a:hover {
   margin:20px;
   line-height: 100%;
   color:rgb(3, 3, 3);
+}
+
+.home-photos img {
+  margin:20px;
 }
 
 .about_us h2 {
@@ -513,12 +521,28 @@ color:rgb(3, 3, 3);
       display: none;
     }
 
+    .home-photos .display-mobile {
+      display: block!important;
+    }
+
     .menu-items li {
       display: block;
     }
 
     .social-links li {
       display: inline;
+    }
+
+    .social-links .padding-r100 {
+      padding-right: 0;
+    }
+
+    .social-links .mobile-padding-r30 {
+      padding-right: 30px;;
+    }
+
+    .menu-items .padding-r50 {
+      padding-right: 0;
     }
 
     .menu-items .padding-r70 {
