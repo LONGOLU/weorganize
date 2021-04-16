@@ -73,9 +73,11 @@
             <div class="col-12 col-md-6 ">
                 <div class="form">
                       <form method="post"
+                          enctype=”multipart/form-data”
                           action=”mailto:lucia.longo.canada@gmail.com”>
+
                           <label for="fname">Nome:</label><br>
-                          <input type="text" id="fname" name="fname"><br>   
+                          <input type="text" id="fname" name="name"><br>   
                           <label for="lname">Sobrenome:</label><br>
                           <input type="text" id="lname" name="lname"><br>
 
@@ -91,9 +93,10 @@
 
                           <label for="cars">Residência ou Escola?</label>
                           <select id="Location" name="location">
-                            <option>Residência</option>
-                            <option>Escola</option>
+                            <option value="residencia">Residência</option>
+                            <option value="escola">Escola</option>
                           </select>
+                          
                           <br/>
                           <br/>
 
