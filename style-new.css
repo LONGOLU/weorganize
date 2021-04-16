@@ -396,14 +396,19 @@ color:rgb(3, 3, 3);
   font-family: 'Cormorant Garamond', serif;
 }
 
+.privacy-policy {
+  max-width: 460px;
+  margin-left: 22px;
+}
+
 .privacy-policy h5 {
   margin-top: 20px;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .privacy-policy h5 a {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .contact-container .col.margin-top {
@@ -596,6 +601,12 @@ color:rgb(3, 3, 3);
     .contact-form textarea {
       width: 250px;
       height: 250px;
+    }
+
+    .form-holder iframe {
+      width: 250px;
+      height: 1000px;
+      margin: 0 auto;
     }
 
 
