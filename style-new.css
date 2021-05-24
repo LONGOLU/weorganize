@@ -48,6 +48,10 @@ body {
   margin-bottom: 70px;
 }
 
+.margin-b78 {
+  margin-bottom: 78px;
+}
+
 .margin-b140 {
   margin-bottom: 140px;
 }
@@ -62,6 +66,10 @@ body {
 
 .margin-t30 {
   margin-top:30px;
+}
+
+.margin-t60 {
+  margin-top: 60px;
 }
 
 .margin-b100 {
@@ -665,9 +673,29 @@ color:rgb(3, 3, 3);
     width: 45%;
     height: 45%;
   }
+  
+  .mobile-margin-b0 {
+    margin-bottom: 0;
+  }
+  
 
+  .mobile-margin-b20 {
+    margin-bottom: 20px;
+  }
 
   .mobile-margin-b30 {
     margin-bottom: 30px;
+  }
+
+  .mobile-margin-t20 {
+    margin-top: 20px;
+  }  
+  
+  .mobile-margin-t30 {
+    margin-top: 30px;
+  }  
+
+  .mobile-padding-t20 {
+    padding-top: 20px;
   }
 }
