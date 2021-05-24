@@ -551,6 +551,10 @@ color:rgb(3, 3, 3);
       display: none;
     }
 
+    .hide-mobile {
+      display: none;
+    }
+    
     .display-mobile {
       display: block!important;
     }
