@@ -524,6 +524,10 @@ color:rgb(3, 3, 3);
       max-width: 100%;
     }
 
+    .mobile-center-align {
+      text-align: center
+    }
+
     .space-30 {
       height: 10px;
     }
@@ -554,7 +558,7 @@ color:rgb(3, 3, 3);
     .hide-mobile {
       display: none;
     }
-    
+
     .display-mobile {
       display: block!important;
     }
