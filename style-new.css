@@ -664,6 +664,10 @@ color:rgb(3, 3, 3);
   .sublogo img {
     width: 45%;
     height: 45%;
+  }
 
+
+  .mobile-margin-b30 {
+    margin-bottom: 30px;
   }
 }
