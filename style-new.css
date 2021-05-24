@@ -68,6 +68,10 @@ body {
   margin-bottom: 100px;
 }
 
+.space-30 {
+  height: 30px;
+}
+
 .nav-top {
   background-color: whitesmoke; 
   min-height: 80px;
@@ -520,6 +524,10 @@ color:rgb(3, 3, 3);
       max-width: 100%;
     }
 
+    .space-30 {
+      height: 10px;
+    }
+
     .nav-top-title h1 {
       font-size: 70px;
       letter-spacing: .25em;
@@ -551,6 +559,12 @@ color:rgb(3, 3, 3);
       width: 90%;
       height: 90%;
     }
+
+    .menu-items ul {
+      position: relative;
+      left: -15px;
+    }
+    
 
     .menu-items li {
       display: block;
@@ -610,6 +624,14 @@ color:rgb(3, 3, 3);
       margin: 0 auto;
     }
 
+
+    .testimonial-holder {
+      padding: 0 0 0 0;
+    }
+
+    .about_us {
+      margin-bottom: 0px;
+    }    
 
 }
 
