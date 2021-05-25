@@ -576,12 +576,7 @@ color:rgb(3, 3, 3);
       height: 90%;
     }
 
-    .menu-items ul {
-      position: relative;
-      left: -15px;
-    }
-    
-
+  
     .menu-items li {
       display: block;
     }
@@ -653,6 +648,16 @@ color:rgb(3, 3, 3);
 
 
 @media (max-width: 1000px) {
+
+  .nav-top ul.menu-items {
+    position: relative;
+    left: -15px;
+  }
+
+  .menu-items ul {
+    position: relative;
+    left: -15px;
+  }
 
   .nav-top-title {
     min-height: 200px;
